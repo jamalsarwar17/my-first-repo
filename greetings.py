@@ -11,5 +11,3 @@ if __name__ == "__main__":
     print(greet("World"))
     print(farewell("World"))
     print(shout("World"))
-
-print("DEBUG: delete me before sharing!")
